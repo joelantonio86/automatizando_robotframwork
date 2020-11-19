@@ -15,4 +15,4 @@ Selecionando por Value
         Go To                               ${url}/radios
     Select Radio Button                 movies      guardians
     Radio Button Should Be Set To       movies      guardians
-    Sleep                               5
+    Sleep                               4
